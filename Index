@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="description" content="personal profile and favorites webpage for html & CSS practice.">
+    <meta name="author" content="Caleb Barrolle">
+    <title> About Me & My favorites</title>   
+</head>
+<body style="font-family: Arial, sans-serif; background-color: rgb(243, 243, 243);" margin: 30px;>
+    <h1 style="text-align: center; color: rgb(0, 0, 0);">
+    About Me & My favorites
+    </h1>
+    <hr>
+    <h2> About Me</h2>
+    <div style="background-color: rgb(255, 255, 255)5; border: 5px solid burlywood; padding: 15px; width: 50%;">
+        <p><h1>My name is Caleb Barrolle</h1> </span>
+         <br>
+        <p>I'm a student at Starz University who has interset in technology. 
+        I enjoy learning how computers,internet, and digital tools work.
+        Technology inspires me because it keeps changing the world and 
+        creates new opportunites for learning and innovation.</p> 
+    </div>
+<br>
+<h2 > My Hobbies</h2>
+<ul>
+        <li>Invention </li>
+        <li>Advanture</li>
+        <li>Music</li>
+        <li> Basketball</li>
+</ul>
+<h2> My Top 3 Goals </h2>
+<ol>
+            <li> Inventing a web</li>
+            <li> Exploring</li>
+            <li> Professional gamer</li>
+</ol>
+<h2> Quick Glossary </h2>
+         <dt><b> HTML</b></dt>
+        <dd> The structure of web page that uses elements and tags.</dd>
+        <dt ><b>CSS</b></dt>
+        <dd> Style that control how HTML content looks (color, layout, and fonts ).</dd>
+        <dt ><b> RGB</b></dt>
+        <dd> A color model that uses Red, and Blue values ( for example: rgb(255, 0, 0)).</dd>
+<h3 style=" color: aliceblue;"> My favorites
+</h3>
+<p> Email: <a href="mailto: calebbarrolle@gmail.com"> calebbarrolle@gmail.com</a></p>
+<hr>
+<p style="text-align: center; font-size: 13px;"> &copy; 2025 Caleb Barrolle | Built with HTML & CSS practice</p>
+</body>
+</html>
